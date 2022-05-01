@@ -104,3 +104,18 @@ def process_articles(my_articles):
             articles_list.append(article_source_object)
 
     return articles_list
+
+def search_articles(article_name):
+    search_article_url = 'https://newsapi.org/v2/everything?q=bitcoin&apiKey=NEWS_API_KEY'.format(api_key,article_name)
+    with urllib.request.urlopen(search_article_url) as url:
+        search_article_data = url.read()
+        search_article_response = json.loads(search_article_data)
+
+        search_article_results = None
+
+        if search_article_response['results']:
+            search_article_list = search_article_response['results']
+            search_article_results = process_sources(search_article_list)
+
+
+    return search_article_results
