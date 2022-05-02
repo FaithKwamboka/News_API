@@ -5,7 +5,7 @@
 ## Description
 Nouvelles is a web app that allows the user to view global news of different categories and sources. The app also allows users to see the date an article wa published and read the full article. This is achieved by using the [News API](https://newsapi.org/).
 
-You can view the site at:[Heroku](https://nouvelles1.herokuapp.com/)
+You can view the site at:[Heroku]()
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
@@ -27,7 +27,7 @@ As a user I would like to:
 | :---------------- | :---------------: | ------------------: |
 | Display news by category from different sources | **On page load** | List of various news sources is displayed in a list |
 | Display articles from a news source by category | **On tab link click** | Redirected to a page with articles of the specified category from the source |
-| Display articles from a news source | **On navigation via the tab e.g: https://nouvelles1.herokuapp.com/CNN  ** | Redirected to a page with articles from the source |
+| Display articles from a news source | **On navigation via the tab link** | Redirected to a page with articles from the source |
 | Display the preview of an article | **On page load** | Each article displays an image,description and publication date |
 | To Read an entire article  | **Click an article** | Redirected to the news source's site to read the entire article |
 
