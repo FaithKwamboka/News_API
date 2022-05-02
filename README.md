@@ -87,6 +87,6 @@ As a user I would like to:
 * HTML
 * CSS
 
-## [License](https://github.com/FaithKwamboka/News_API/blob/main/LICENSE)
+## [License](https://github.com/FaithKwamboka/News_API/blob/master/LICENSE)
 
 
