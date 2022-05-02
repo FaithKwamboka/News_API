@@ -1,4 +1,4 @@
-export NEWS_API_KEY='72f6b6ddc8d045ba9d939d04e2679521'
+export NEWS_API_KEY='14fcebe240d945f398171bce0c4a322c'
 export SECRET_KEY='D*QCE/!$8YY[[Q]AF-rn]uVQw?GWLBg'
 
 
