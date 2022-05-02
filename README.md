@@ -11,11 +11,15 @@ You can view the site at:[Heroku]()
 These are the behaviours/features that the application implements for use by a user.
 
 As a user I would like to:
-* See various news sources
+* See various news sources and categories
+![news1](https://user-images.githubusercontent.com/100117264/166223780-de5a599e-f1aa-4102-b809-19c5fbe45cfc.png)
+
 * Select the ones they prefer
 * Navigate to a particular news source e.g http://127.0.0.1:5000/CNN
 * See the news articles from that news source
 * See the image, description and time the news article was created
+![news2](https://user-images.githubusercontent.com/100117264/166223793-bcb6b86d-d80e-44ab-86e2-fdf750705921.png)
+
 * Click on an article and read it fully from the news source
 
 ## Specifications
