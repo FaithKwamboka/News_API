@@ -5,7 +5,7 @@
 ## Description
 Nouvelles is a web app that allows the user to view global news of different categories and sources. The app also allows users to see the date an article wa published and read the full article. This is achieved by using the [News API](https://newsapi.org/).
 
-You can view the site at:[Heroku]()
+You can view the site at:[Heroku](https://nouvelles1.herokuapp.com/)
 
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
